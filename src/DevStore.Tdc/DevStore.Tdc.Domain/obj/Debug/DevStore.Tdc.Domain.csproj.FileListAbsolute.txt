@@ -1,0 +1,6 @@
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.pdb
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.csprojResolveAssemblyReference.cache
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.dll
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.pdb
+c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.dll.config
