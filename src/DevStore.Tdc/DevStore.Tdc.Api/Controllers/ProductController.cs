@@ -4,9 +4,11 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace DevStore.Tdc.Api.Controllers
 {
+    [EnableCors(origins: "http://localhost:9012", headers: "*", methods: "*")]
     [RoutePrefix("api/v1/public")]
     public class ProductController : ApiController
     {

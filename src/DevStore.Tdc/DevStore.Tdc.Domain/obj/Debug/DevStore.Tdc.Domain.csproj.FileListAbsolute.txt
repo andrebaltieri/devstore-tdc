@@ -4,3 +4,9 @@ c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.D
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.dll
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.pdb
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.dll.config
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.dll.config
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\bin\Debug\DevStore.Tdc.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.csprojResolveAssemblyReference.cache
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Domain\obj\Debug\DevStore.Tdc.Domain.pdb

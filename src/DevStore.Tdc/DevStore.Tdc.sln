@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Tdc.Data", "DevSto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Tdc.Api", "DevStore.Tdc.Api\DevStore.Tdc.Api.csproj", "{90517766-B35F-4C96-B3C2-22222403F22D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevStore.Tdc.Web", "DevStore.Tdc.Web\DevStore.Tdc.Web.csproj", "{972BA4E2-3C5F-436D-A6B0-77524C9D33E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{90517766-B35F-4C96-B3C2-22222403F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90517766-B35F-4C96-B3C2-22222403F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90517766-B35F-4C96-B3C2-22222403F22D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972BA4E2-3C5F-436D-A6B0-77524C9D33E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972BA4E2-3C5F-436D-A6B0-77524C9D33E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972BA4E2-3C5F-436D-A6B0-77524C9D33E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972BA4E2-3C5F-436D-A6B0-77524C9D33E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

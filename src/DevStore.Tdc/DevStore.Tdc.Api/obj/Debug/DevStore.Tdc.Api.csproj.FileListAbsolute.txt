@@ -30,3 +30,35 @@ c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.A
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.xml
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Cors.xml
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Owin.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Api.exe.config
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\obj\Debug\DevStore.Tdc.Api.exe
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\obj\Debug\DevStore.Tdc.Api.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Api.exe
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Api.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Data.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Domain.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\EntityFramework.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Newtonsoft.Json.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Owin.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Net.Http.Formatting.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Cors.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Cors.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Owin.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Data.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\DevStore.Tdc.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\EntityFramework.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\Newtonsoft.Json.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Net.Http.Formatting.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Cors.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\bin\Debug\System.Web.Http.Owin.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Api\obj\Debug\DevStore.Tdc.Api.csprojResolveAssemblyReference.cache

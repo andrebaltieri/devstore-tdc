@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" ng-app>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../content/css/bootstrap.min.css" />
+    <title></title>
+
+    <style>
+        .done-true {
+            text-decoration: line-through;
+            color: grey;
+        }
+    </style>
+</head>
+<body>
+    <h1>AngularJS - Todo</h1>
+    <div ng-controller="TodoCtrl">
+        <span>{{remaining()}} de {{todos.length}} restantes</span>
+        <ul class="unstyled">
+            <li ng-repeat="todo in todos">
+                <input type="checkbox" ng-model="todo.done">
+                <span class="done-{{todo.done}}">{{todo.text}}</span>
+            </li>
+        </ul>
+        <form ng-submit="addTodo()">
+            <input type="text" ng-model="todoText" size="30"
+                   placeholder="Tarefa">
+            <input class="btn btn-primary" type="submit" value="Adicionar">
+        </form>
+    </div>
+
+    <script type="text/javascript" src="../content/js/angular.min.js"></script>
+    <script type="text/javascript">
+        function TodoCtrl($scope) {
+            $scope.todos = [
+              { text: 'Aprender AngularJS', done: true },
+              { text: 'Criar uma app', done: false }];
+
+            $scope.addTodo = function () {
+                $scope.todos.push({ text: $scope.todoText, done: false });
+                $scope.todoText = '';
+            };
+
+            $scope.remaining = function () {
+                var count = 0;
+                angular.forEach($scope.todos, function (todo) {
+                    count += todo.done ? 0 : 1;
+                });
+                return count;
+            };
+        }
+    </script>
+</body>
+</html>

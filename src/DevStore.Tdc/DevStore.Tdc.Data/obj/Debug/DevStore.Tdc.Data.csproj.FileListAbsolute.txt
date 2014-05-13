@@ -10,3 +10,15 @@ c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.D
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Domain.dll
 c:\users\andre\documents\visual studio 2013\Projects\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Data.dll.config
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Data.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Data.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Domain.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\EntityFramework.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\DevStore.Tdc.Domain.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\EntityFramework.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\obj\Debug\DevStore.Tdc.Data.csprojResolveAssemblyReference.cache
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\obj\Debug\DevStore.Tdc.Data.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Data\obj\Debug\DevStore.Tdc.Data.pdb

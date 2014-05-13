@@ -1,0 +1,6 @@
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\bin\DevStore.Tdc.Web.dll.config
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\bin\DevStore.Tdc.Web.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\bin\DevStore.Tdc.Web.pdb
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\obj\Debug\DevStore.Tdc.Web.csprojResolveAssemblyReference.cache
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\obj\Debug\DevStore.Tdc.Web.dll
+C:\development\repository\andrebaltieri\devstore-tdc\src\DevStore.Tdc\DevStore.Tdc.Web\obj\Debug\DevStore.Tdc.Web.pdb
