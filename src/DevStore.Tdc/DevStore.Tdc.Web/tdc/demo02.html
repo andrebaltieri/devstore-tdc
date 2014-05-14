@@ -16,6 +16,7 @@
                 <span class="done-{{todo.done}}">{{todo.text}}</span>
             </li>
         </ul>
+
         <form ng-submit="addTodo()">
             <input type="text" ng-model="todoText" size="30"
                    placeholder="Tarefa">
@@ -27,8 +28,8 @@
     <script type="text/javascript">
         function TodoCtrl($scope) {
             $scope.todos = [
-              { text: 'Aprender AngularJS', done: true },
-              { text: 'Criar uma app', done: false }];
+                          { text: 'Aprender AngularJS', done: true },
+                          { text: 'Criar uma app', done: false }];
 
             $scope.addTodo = function () {
                 $scope.todos.push({ text: $scope.todoText, done: false });

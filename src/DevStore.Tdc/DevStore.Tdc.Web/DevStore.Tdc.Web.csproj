@@ -57,7 +57,11 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\controllers\HomeController.js" />
+    <Content Include="app\controllers\ProductController.js" />
     <Content Include="app\routes.js" />
+    <Content Include="app\views\home\index.html" />
+    <Content Include="app\views\product\index.html" />
     <Content Include="content\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="content\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="content\fonts\glyphicons-halflings-regular.woff" />
@@ -71,19 +75,24 @@
   <ItemGroup>
     <Content Include="content\css\bootstrap.min.css" />
     <Content Include="content\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="content\js\angular-route.min.js" />
     <Content Include="content\js\angular.min.js" />
     <Content Include="content\js\bootstrap.min.js" />
+    <Content Include="content\js\jquery.min.js" />
+    <Content Include="content\js\toastr.min.js" />
     <Content Include="demo01.html" />
     <Content Include="demo02.html" />
+    <Content Include="demo04.html" />
     <Content Include="demo03.html" />
+    <Content Include="tdc\demo01.html" />
+    <Content Include="tdc\demo02.html" />
+    <Content Include="tdc\demo03.html" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="app\controllers\" />
-  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

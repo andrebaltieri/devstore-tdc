@@ -1,0 +1,55 @@
+﻿<section class="content-header">
+    <h1>Produtos <small>DevStore</small></h1>
+    <ol class="breadcrumb">
+        <li><a href="#/">Home</a></li>
+        <li class="active">Produtos</li>
+    </ol>
+</section>
+
+<section class="content">
+    <div class="row">
+        <div class="col-md-8">
+            <table class="table table-bordered table-striped">
+                <thead>
+                    <tr>
+                        <th class="col-md-1 text-center">Cód.</th>
+                        <th>Produto</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr ng-repeat="product in vm.products">
+                        <td class="col-md-1 text-center">{{ product.id }}</td>
+                        <td><a href="javascript:void(0)" ng-click="SelectProduct(product.id)">{{ product.name }}</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="col-md-4">
+            <div class="box box-primary">
+                <form name="editorProductForm" ng-submit="SaveProduct()">
+                    <div class="box-body">
+                        <div class="form-group">
+                            <label>Cód.</label><br />
+                            <span>{{ vm.product.id }}</span>
+                        </div>
+                        <div class="form-group">
+                            <label>Título</label>
+                            <input type="text" class="form-control" name="title" ng-model="vm.product.name" placeholder="Título do Produto">
+                        </div>
+                        <div class="form-group">
+                            <label>Preço</label>
+                            <input type="text" class="form-control" name="price" ng-model="vm.product.productNumber" placeholder="Código">
+                        </div>
+                        <div class="form-group">
+                            <input type="submit" class="btn btn-primary" value="Salvar">
+                            <div class="btn-group pull-right">
+                                <a href="javascript:void(0)" class="btn" ng-click="NewProduct()"><i class="fa fa-plus-square"></i> Novo</a>
+                                <a href="javascript:void(0)" class="btn" ng-click="DeleteProduct()"><i class="fa fa-minus-square"></i> Exlcuir</a>
+                            </div>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</section>

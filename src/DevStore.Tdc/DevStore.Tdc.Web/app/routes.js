@@ -3,7 +3,6 @@
     var id = 'app';
 
     var app = angular.module('app', [
-        'ngAnimate',
         'ngRoute'
     ]);
 
@@ -11,17 +10,12 @@
         $routeProvider
             .when('/', {
                 controller: 'HomeController as vm',
-                templateUrl: 'app/views/home/index.html',
-                resolve: {
-                    action: function () { return 'list'; }
-                }
+                templateUrl: 'app/views/home/index.html'
+               
             })
             .when('/produtos', {
                 controller: 'ProductController as vm',
-                templateUrl: 'app/views/product/index.html',
-                resolve: {
-                    action: function () { return 'list'; }
-                }
+                templateUrl: 'app/views/product/index.html'
             });
     });
 })();

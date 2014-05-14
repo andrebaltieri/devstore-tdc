@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" ng-app>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="../content/css/bootstrap.min.css" />
+    <title></title>
+</head>
+<body>
+    <div ng-controller="ProductController">
+        <h1>Produtos</h1>
+        <ul ng-repeat="product in products">
+            <li>{{ product.name }}</li>
+        </ul>
+    </div>
+
+    <script type="text/javascript" src="../content/js/angular.min.js"></script>
+    <script src="../content/js/jquery.min.js"></script>
+    <script src="../content/js/angular-route.min.js"></script>
+    <script src="../content/js/toastr.min.js"></script>
+    <script src="../app/routes.js"></script>
+    <script src="../app/controllers/HomeController.js"></script>
+    <script src="../app/controllers/ProductController.js"></script>
+    <script>
+        function ProductController($scope, $http) {
+            $scope.products = [];
+
+            function activate() { }
+            GetProducts();
+
+            function GetProducts() {
+                $http.get('http://localhost:9000/api/v1/public/products')
+                .success(function (data, status, headers, config) {
+                    angular.forEach(data, function (prd) {
+                        $scope.products.push(prd);
+                    });
+                });
+            }
+        }
+    </script>
+</body>
+</html>
