@@ -1,12 +1,12 @@
-﻿<section class="content-header">
-    <h1>Produtos <small>DevStore</small></h1>
-    <ol class="breadcrumb">
-        <li><a href="#/">Home</a></li>
-        <li class="active">Produtos</li>
-    </ol>
-</section>
+﻿<section class="content col-md-12">
+    <section class="content-header">
+        <h1>Produtos <small>DevStore</small></h1>
+        <ol class="breadcrumb">
+            <li><a href="#/">Home</a></li>
+            <li class="active">Produtos</li>
+        </ol>
+    </section>
 
-<section class="content">
     <div class="row">
         <div class="col-md-8">
             <table class="table table-bordered table-striped">
@@ -33,11 +33,11 @@
                             <span>{{ vm.product.id }}</span>
                         </div>
                         <div class="form-group">
-                            <label>Título</label>
+                            <label>Nome</label>
                             <input type="text" class="form-control" name="title" ng-model="vm.product.name" placeholder="Título do Produto">
                         </div>
                         <div class="form-group">
-                            <label>Preço</label>
+                            <label>Código</label>
                             <input type="text" class="form-control" name="price" ng-model="vm.product.productNumber" placeholder="Código">
                         </div>
                         <div class="form-group">

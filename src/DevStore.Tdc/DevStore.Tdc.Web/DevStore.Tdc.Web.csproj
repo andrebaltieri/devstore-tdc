@@ -62,6 +62,7 @@
     <Content Include="app\routes.js" />
     <Content Include="app\views\home\index.html" />
     <Content Include="app\views\product\index.html" />
+    <Content Include="content\css\toastr.min.css" />
     <Content Include="content\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="content\fonts\glyphicons-halflings-regular.ttf" />
     <Content Include="content\fonts\glyphicons-halflings-regular.woff" />
